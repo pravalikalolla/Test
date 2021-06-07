@@ -1,4 +1,4 @@
-package com.mt.test;
+package com.my.hello;
 
 public class World {
 	public static void main(String[] args) {
